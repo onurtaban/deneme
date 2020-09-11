@@ -62,7 +62,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       }else return "Ders adı boş olamaz";
                     },
                     onSaved:(kaydedilecekDeger){
-                      
+
                     } ,
                   )
 
